@@ -8,6 +8,8 @@ Ganak is a comprehensive mobile application designed to empower shop owners with
 
 🎯 **Increased Customer Engagement:** Implemented personalized notifications and loyalty programs, resulting in a 25% increase in customer engagement. This strategy not only enhances customer satisfaction but also drives repeat business.
 
+![Copy of  Ganak_page-0001](https://github.com/manish4102/inventory_system/assets/91743234/461c4648-14ab-425b-b106-40f33f2d0f16)
+
 Ganak equips shop owners with powerful tools to stay ahead in a competitive market, fostering growth and profitability through data-driven decision-making.
 
 
