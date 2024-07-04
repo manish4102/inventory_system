@@ -1,4 +1,4 @@
-# 🛒 Ganak - Sales Analysis Enhancing Decision-Making For Shop Owners
+# 🛒 Ganak - Sales Analysis Enhancing Decision-Making For Shop Owners 🛍️
 
 Ganak is a comprehensive mobile application designed to empower shop owners with advanced sales analysis capabilities, enhancing their decision-making processes and operational efficiency. Leveraging cutting-edge technologies, Ganak delivers significant improvements across key business metrics:
 
