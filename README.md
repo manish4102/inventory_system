@@ -8,6 +8,13 @@ Ganak is a comprehensive mobile application designed to empower shop owners with
 
 🎯 **Increased Customer Engagement:** Implemented personalized notifications and loyalty programs, resulting in a 28% increase in customer engagement. This strategy not only enhances customer satisfaction but also drives repeat business.
 
+## Technologies Used
+* 🐦 Flutter
+* 🎯 Dart
+* 🔥 Firebase
+* 🐍 Python
+* 🔗 TensorFlow
+
 ![Copy of  Ganak_page-0001](https://github.com/manish4102/inventory_system/assets/91743234/faa3234d-cf7e-4723-9aec-d5f49376d47b)
 ![Copy of  Ganak_page-0002](https://github.com/manish4102/inventory_system/assets/91743234/e4e00499-ca45-4ffc-aa93-3c87ba2f03dd)
 ![Copy of  Ganak_page-0003](https://github.com/manish4102/inventory_system/assets/91743234/8ee1be91-3350-4c87-a5e4-97fd82345c02)
