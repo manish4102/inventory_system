@@ -8,7 +8,7 @@ Ganak is a comprehensive mobile application designed to empower shop owners with
 
 🎯 **Increased Customer Engagement:** Implemented personalized notifications and loyalty programs, resulting in a 28% increase in customer engagement. This strategy not only enhances customer satisfaction but also drives repeat business.
 
-## Technologies Used
+## Technologies Used 💻
 * 🐦 Flutter
 * 🎯 Dart
 * 🔥 Firebase
